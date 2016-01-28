@@ -1,4 +1,5 @@
 # The back-res script by go0ogl3
+version="0.9.6 from 2014-02-04"
 
 Copyright (c) go0ogl3 gabi@eurosistems.ro
 If you want to reward his work donate a small amount with Paypal (use his mail)
