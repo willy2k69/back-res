@@ -1,9 +1,9 @@
 # The back-res script by go0ogl3
 
 Copyright (c) go0ogl3 gabi@eurosistems.ro
-If you want to reward my work donate a small amount with Paypal (use my mail)
+If you want to reward his work donate a small amount with Paypal (use his mail)
 
-If you enjoy him script please register and say thank you here: 
+If you enjoy his script please register and say thank you here: 
 http://www.howtoforge.com/forums/showthread.php?t=41609
 This is to keep the thread alive so this script can help other people too.
 
